@@ -1,3 +1,12 @@
-[README.md](https://github.com/user-attachments/files/16102545/README.md)
-[requirements.txt](https://github.com/user-attachments/files/16102547/requirements.txt)
-[packages.txt](https://github.com/user-attachments/files/16102548/packages.txt)
+---
+title: Microsoft Trocr Base Handwritten
+emoji: 🚀
+colorFrom: pink
+colorTo: green
+sdk: gradio
+sdk_version: 4.19.1
+app_file: app.py
+pinned: false
+---
+
+Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
