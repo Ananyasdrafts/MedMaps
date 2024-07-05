@@ -20,7 +20,7 @@ Welcome to the MedMaps repository! This project aims to track patients' heart ra
 ## Repository Structure
 
 - **Diabetestrack/**: Contains the code for training and utilizing the LSTMs and Attention Mechanisms for health tracking and prediction.
-  - `train_model.ipynb`: Notebook containing the models (LSTM with attention mechanism, autoencoder) as well as script for making health predictions based on data.
+  - `LSTM.ipynb`: Notebook containing the models (LSTM with attention mechanism, autoencoder) as well as script for making health predictions based on data.
   - `README.md`: Details about relevant datasets.
 - **Frontend/**: Contains the code for the user interface of the app.
 - **heart-health-tracker/**: Contains alternative code for health tracking, specifically applied to heart health monitoring.
